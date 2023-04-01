@@ -31,5 +31,5 @@ Portfolio - [Hani.wtf](https://Hani.wtf/)
 <br />
 
 <!-- [website]: https://Hani.wtf -->
-[linkedin]: https://www.linkedin.com/in/reksa-andhika/
-[twitter]: https://twitter.com/reksaandhika
+[linkedin]: https://www.linkedin.com/in/
+[twitter]: https://twitter.com/
