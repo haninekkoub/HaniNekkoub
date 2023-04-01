@@ -1,12 +1,12 @@
-### Hi 👋 I'm Reksa Andhika Pamungkas
+### Hi 👋 I'm Hani Nekkoub
 
 ## I'm a Freelancer Creative Website Developer
 
 - I'm currently freelancing, also looking for interesting job offers 😬
-- Live in Banten, Indonesia, working globally 🌍
-- 2023 Goal: Winning SOTD on Awwwards 💻
+- Live in Algeria, working globally 🌍
 
-Portfolio - [reksaandhika.com](https://reksaandhika.com/)
+
+Portfolio - [Hani.wtf](https://Hani.wtf/)
 
 
 ### Connect with me:
