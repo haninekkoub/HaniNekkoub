@@ -31,5 +31,5 @@ Portfolio - [Hani.wtf](https://Hani.wtf/)
 <br />
 
 <!-- [website]: https://Hani.wtf -->
-[linkedin]: https://www.linkedin.com/in/
-[twitter]: https://twitter.com/
+[linkedin]: https://www.linkedin.com/in/haninekkoub/
+[twitter]: https://twitter.com/nekkoubhani
