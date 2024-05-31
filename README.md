@@ -1,6 +1,4 @@
-### Hi 👋 I'm Hani Nekkoub
-
-## I'm a Freelancer Creative Website Developer
+### Hi 👋 I'm Hani Nekkoub Creative Web Developer
 
 - I'm currently freelancing, also looking for interesting job offers 😬
 - Live in Algeria, working globally 🌍
