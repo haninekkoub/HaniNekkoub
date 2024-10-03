@@ -1,9 +1,8 @@
 ### Hi 👋 I'm Hani a Creative Web Developer
 
-- I'm currently freelancing, also looking for interesting job offers 😬
 - Live in Algeria, working globally 🌍
 - Love trying new tech and learning things 🚀
-- Working with Next.js, Astro, and React to build amazing websites 💻
+- Working with Next.js, Astro, Sanity and React to build amazing websites 💻
 - Enjoy a good challenge and creating imaginative animations 🎨
 
 
